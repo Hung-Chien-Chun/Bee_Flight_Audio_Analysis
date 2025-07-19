@@ -3,15 +3,14 @@
 This repository holds the R scripts used to preprocess honey-bee wing-beat recordings, generate single-file spectra, and overlay 10 spectra.  
 **All code is exactly the same as the version used for the manuscript; it has only been split into separate files.**
 
-***Bug reports & pull requests.
+***Bug reports & pull requests***
 Please open a GitHub issue or PR, or contact:
 
 Author: Chien-Chun Hung
 j35596768j@gmail.com
-
 Lab: Chieh-Chen Huang Lab, National Chung Hsing University
 
-***Citation
+***Citation***
 If you use this code, please cite our forthcoming manuscript:
 A formal citation with DOI will be added once the paper is published.
 
